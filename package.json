@@ -1,6 +1,6 @@
 {
   "name": "engine.io",
-  "version": "4.1.2",
+  "version": "4.1.2-lineaje-01",
   "description": "The realtime engine behind Socket.IO. Provides the foundation of a bidirectional connection between client and server",
   "main": "lib/engine.io.js",
   "author": "Guillermo Rauch <guillermo@learnboost.com>",
@@ -21,6 +21,10 @@
     {
       "name": "Mark Mokryn",
       "email": "mokesmokes@gmail.com"
+    },
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
     }
   ],
   "license": "MIT",
@@ -54,7 +58,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:socketio/engine.io.git"
+    "url": "https://github.com/lineaje-labs-gos/socketio-engine.io"
   },
   "files": [
     "lib/"
